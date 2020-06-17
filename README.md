@@ -1,0 +1,2 @@
+# XamarinLocationUpdatesForegroundService
+Sample of the LocationUpdatesForegroundService in Xamarin.Android.
